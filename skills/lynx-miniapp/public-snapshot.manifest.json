@@ -1,0 +1,90 @@
+{
+  "schema": "lms-public-snapshot.v1",
+  "skill": "lynx-miniapp",
+  "files": [
+    {
+      "path": ".skillignore",
+      "sha256": "sha256:8817cb3950920a0a5f12e634ae04d677cacef06d8dcbb4fcb23c9980ad1b87b0"
+    },
+    {
+      "path": "assets/ide-verify-report.template.md",
+      "sha256": "sha256:ce997d205942c9dcf805668c68bc440a2b729c3f5f11b1ccef19788890267a52"
+    },
+    {
+      "path": "assets/runtime-tools.lock.json",
+      "sha256": "sha256:b04ee57c5f2466f6de793c006bb4362c3e61759090dcf1bf775d9e20aa2d847a"
+    },
+    {
+      "path": "assets/webview-to-lynx-full-assessment.template.md",
+      "sha256": "sha256:5f725d66861aace13b2262848f01ea5a09ee2574065fd8d49412bffe9531faa9"
+    },
+    {
+      "path": "references/api_diff.md",
+      "sha256": "sha256:e911ce7f1267e1a85bc562d0d9ab1ca92a7366bb3b41e7a17447cffe1352ca4a"
+    },
+    {
+      "path": "references/compatibility-model.md",
+      "sha256": "sha256:b7d17d47c9e6465434c59263570b2a1a2a92b43b7d652d49ae9ffa901e7134d3"
+    },
+    {
+      "path": "references/component_diff.md",
+      "sha256": "sha256:0c1f3a47781d94ae61231cd668b96d6b8413f385003eaa245de1bfe52dc26487"
+    },
+    {
+      "path": "references/css_diff.md",
+      "sha256": "sha256:88ac35f71332aa41e0ff7dac0f95dbdcf7d2d31bd3b09084a94cce2157357196"
+    },
+    {
+      "path": "references/css_support/layout.md",
+      "sha256": "sha256:a64535130dcae2e63ef6f5b2a3a59ea7512623c44e5b93a667c4b6c19b5733af"
+    },
+    {
+      "path": "references/css_support/properties.md",
+      "sha256": "sha256:e2701568b6d921a5efa3de5473e82b451c532c5d26f9a1d38eb85165fcefda5e"
+    },
+    {
+      "path": "references/css_support/selectors.md",
+      "sha256": "sha256:956bc5263ae8c3254f3d1676941e2b8ec16dc291032d97074b8180752cfc05ad"
+    },
+    {
+      "path": "references/framework_diff.md",
+      "sha256": "sha256:ef4b77e81ef85496b2958dd77cf249c058116bdb7c5e9d8df28f2799b393c103"
+    },
+    {
+      "path": "references/generation-constraints.md",
+      "sha256": "sha256:a1f7d5434d9b49421ea747453a958e17ed600acf85625dd2eb29eb06141bf847"
+    },
+    {
+      "path": "references/ide_interaction_verify.md",
+      "sha256": "sha256:295720d4aff75dcbf89efcccb84e213a18abbca8ede6957a25c5254f79dad786"
+    },
+    {
+      "path": "references/ide_visual_verify.md",
+      "sha256": "sha256:da48ddaa53693da18a52555fb06b1af05406e7b567e2477bf08eba06705c72c3"
+    },
+    {
+      "path": "references/interaction_failure_diagnosis.md",
+      "sha256": "sha256:ae62195752e54426fe1c2f6f94f79065e0ad47b482bd150c61daf9395d369f59"
+    },
+    {
+      "path": "references/third_party_framework_diff.md",
+      "sha256": "sha256:4b925557e0389f41735d1f28000b20028c20e60750f061323796eea3c7bbf9e4"
+    },
+    {
+      "path": "references/verification-evidence.md",
+      "sha256": "sha256:f57ef95b6a649ad31fc67abc430782751f3501efbb755eb5c1cddb703c25b0ba"
+    },
+    {
+      "path": "references/webview_to_lynx_precheck.md",
+      "sha256": "sha256:4bec3345dac099257cb98e86173cf77a63c969bb4443e889875b66c07ba1fef3"
+    },
+    {
+      "path": "scripts/precheck_scan.mjs",
+      "sha256": "sha256:09538aa525dbfc4b3fe3ba017d9deede434abb7773083be7dcc00902a0eda7f9"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "sha256:2304b0d5ea141f27f1fc44eb73a1d9f49db8b72886e3909f34a6eacf0a9d4143"
+    }
+  ]
+}

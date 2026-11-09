@@ -1,0 +1,7 @@
+# Runtime-only temporary artifacts. Keep source, references, assets, scripts, and eval fixtures tracked.
+temp_data/
+.cache/
+*.log
+*.tmp
+ide-session-*.json
+verification-output/

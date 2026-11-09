@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "tools": {
+    "ttIdeCli": {
+      "package": "tt-ide-cli",
+      "version": "0.1.34-lynx.0",
+      "integrity": "sha512-t5CNS+4pKkgo01Drlx1/EQd6ptoh4mRpv5I3I/pEiZrFzhBuRClE+MhMULmlrEGFsSGGyvnTq8rQEqkMyS8bQQ==",
+      "binary": "tma-ide-session",
+      "previewBinary": "tma",
+      "previewCommand": "preview",
+      "protocolVersion": 1,
+      "profile": "screenshot",
+      "requiredCapabilities": ["capture"],
+      "registry": "https://registry.npmjs.org"
+    }
+  }
+}
