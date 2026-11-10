@@ -71,7 +71,7 @@ Visual-fidelity validation is not required in this task. If no runnable page or 
 
 ## Updates
 
-The public `skills/lynx-miniapp` directory is produced from a deterministic allowlisted snapshot. Follow repository releases and `CHANGELOG.md` for updates and upgrade notes.
+See the [changelog](CHANGELOG.md) for version changes.
 
 ## Versioning and compatibility
 

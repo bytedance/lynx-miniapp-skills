@@ -71,7 +71,7 @@ npx skills add bytedance/lynx-miniapp-skills
 
 ## 更新
 
-公开仓库中的 `skills/lynx-miniapp` 由确定性的白名单快照生成。请关注仓库的 Release 或 `CHANGELOG.md` 获取更新与升级说明。
+版本变更请查看[更新日志](CHANGELOG.md)。
 
 ## 版本与兼容性
 
